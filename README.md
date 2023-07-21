@@ -8,4 +8,7 @@ the number of crimes, and periods of elevated criminal activity.
 I looked at the distributions of the data and the value counts for the various categorical variables. 
 ## Model Building
 Linear Regression – Predict the number of Crimes per Division by year
+
 Ordinal & Logistic – Amount of crime prediction
+
+K-Means clustering - Police division performance evaluation
