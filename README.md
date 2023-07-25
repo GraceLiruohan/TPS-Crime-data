@@ -14,3 +14,5 @@ Linear Regression – Predict the number of Crimes per Division by year
 Ordinal & Logistic – Amount of crime prediction
 
 K-Means clustering - Police division performance evaluation
+## Key Observation and Conclusion
+Crime occurs most frequently at midnight and one o clock, typically on Fridays and continuing into Saturdays. We can assign an increased number of police officers as a minimum requirement in the model.
