@@ -7,7 +7,12 @@ the number of crimes, and periods of elevated criminal activity.
 ## EDA
 Added 18 new features to the crime dataset, enhancing the predictive modeling process and potentially capturing more relevant patterns and insights
 
-Looked at the distributions of the data and the value counts for the various categorical variables. 
+Looked at the distributions of the data and the value counts for the various categorical variables.
+
+![download](https://github.com/GraceLiruohan/TPS-Crime-data/assets/139920767/da213736-24be-49f3-b1c0-96b01c7d4528)
+
+![download (1)](https://github.com/GraceLiruohan/TPS-Crime-data/assets/139920767/f277717c-563f-4e32-9e17-3b30ebfcfd5c)
+
 ## Model Building
 Linear Regression – Predict the number of Crimes per Division by year
 
