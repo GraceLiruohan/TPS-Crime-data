@@ -6,6 +6,7 @@ and ultimately reduce the overall crime rate. I built predictive models based on
 the number of crimes, and periods of elevated criminal activity. 
 ## EDA
 Added 18 new features to the crime dataset, enhancing the predictive modeling process and potentially capturing more relevant patterns and insights
+
 Looked at the distributions of the data and the value counts for the various categorical variables. 
 ## Model Building
 Linear Regression – Predict the number of Crimes per Division by year
