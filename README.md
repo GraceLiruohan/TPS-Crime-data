@@ -5,7 +5,8 @@ This project aimed to analyze the features that impact the level of crime in Tor
 and ultimately reduce the overall crime rate. I built predictive models based on historical data to forecast crime hotspots (both locations and divisions), 
 the number of crimes, and periods of elevated criminal activity. 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. 
+Added 18 new features to the crime dataset, enhancing the predictive modeling process and potentially capturing more relevant patterns and insights
+Looked at the distributions of the data and the value counts for the various categorical variables. 
 ## Model Building
 Linear Regression – Predict the number of Crimes per Division by year
 
