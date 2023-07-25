@@ -15,6 +15,6 @@ Ordinal & Logistic – Amount of crime prediction
 
 K-Means clustering - Police division performance evaluation
 ## Key Observation and Conclusion
-Crime occurs most frequently at midnight and one o clock, typically on Fridays and continuing into Saturdays. We can assign an increased number of police officers as a minimum requirement in the model.
+Crime occurs most frequently at midnight and one o clock, typically on Fridays and continuing into Saturdays. We can assign an increased number of police officers as a minimum requirement in the model
 
 K-means Clustering identified that division 55 has the highest average expenditure and average crime rate by square kilometres as well as crime per capita. We can determine the resources needed for this division from our Linear Regression model
